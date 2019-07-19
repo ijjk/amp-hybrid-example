@@ -6,7 +6,7 @@ export default () => (
       <amp-img
         width={500}
         height={500}
-        src='/example.png'
+        src='/static/example.png'
         layout='responsive'
         alt='a penguin'
       />
